@@ -1,3 +1,8 @@
 # js-basics-5.30
 
-Hello from VSCODE
+Git commands are:
+
+clone
+add
+commit
+push
