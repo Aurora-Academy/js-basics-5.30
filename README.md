@@ -13,3 +13,5 @@ push
 4. git clone github ssh url
 
 5. add, commit and push
+
+This is all about Git
